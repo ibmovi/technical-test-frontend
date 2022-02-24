@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid;
+}
+
+
+table{
+    width: 45%;
+}
+
+div {
+    display: flex;
+    
+}
+
+/*# sourceMappingURL=main.css.map*/

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://javascript-basic-skeleton/./src/assets/css/styles.css"],"names":[],"mappings":"AAAA;IACI,iBAAiB;AACrB;;;AAGA;IACI,UAAU;AACd;;AAEA;IACI,aAAa;;AAEjB,C","file":"main.css","sourcesContent":["table, th, td {\r\n    border: 1px solid;\r\n}\r\n\r\n\r\ntable{\r\n    width: 45%;\r\n}\r\n\r\ndiv {\r\n    display: flex;\r\n    \r\n}"],"sourceRoot":""}
